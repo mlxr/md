@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Error</title>
+<style>
+    body {
+        width: 35em;
+        margin: 0 auto;
+        font-family: Tahoma, Verdana, Arial, sans-serif;
+    }
+</style>
+</head>
+<body>
+<h1>Too Many Requests.</h1>
+<p>Sorry, but we have reached our maximum number of simultaneous requests.<br/>
+Please try again in a while by refreshing this page.</p>
+<p>Note that we also limit connections and speeds based on what you are
+downloading, due to lack of bandwidth.</p>
+<p>Please consider using a mirror!</p>
+<p><em>Faithfully yours, Blender administration.</em></p>
+</body>
+</html>
